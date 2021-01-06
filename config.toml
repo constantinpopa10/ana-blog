@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "Ana's blog"
 baseURL = "https://example.com/"
 theme = "bilberry-hugo-theme"
 
@@ -59,7 +59,7 @@ disqusShortname = "anamaria-blog"
     subtitle = "Hello World! This is the most epic subtitle ever."
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = "constantin.popa10@gmail.com"
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = ""
