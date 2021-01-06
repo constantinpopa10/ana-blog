@@ -7,6 +7,7 @@ author: "Lednerb"
 noSummary: true
 
 resizeImages: false
+toc: true
 ---
 Hey there!
 
